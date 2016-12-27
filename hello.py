@@ -1,5 +1,5 @@
 #!/usr/bin/python
 
-for i in ange(10):
+for i in range(10):
     print("hi"+str(i))
 
